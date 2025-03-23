@@ -1,0 +1,1 @@
+print(list(filter(lambda x:x.lower() in 'aeiou',input('Enter a string '))))

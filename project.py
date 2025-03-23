@@ -1,0 +1,9 @@
+sumofx=3400#float(input('X'))
+sumofy=float(input('Y'))
+n=int(input('n'))
+sumofxy=float(input('XY'))
+sumofx2=float(input('X^2'))
+m=((sumofx*sumofy)-(n*sumofxy))/((sumofx**2)-(n*sumofx2))
+print(((sumofx**2)-(n*sumofx2)))
+print(m)
+15
